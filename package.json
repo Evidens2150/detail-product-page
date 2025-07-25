@@ -1,0 +1,28 @@
+{
+  "name": "detail-product-page",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@nuxt/image": "^0.7.2",
+    "nuxt": "^2.18.1",
+    "vue": "^2.7.16",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-meta": "^2.4.0",
+    "vue-server-renderer": "^2.7.16"
+  },
+  "devDependencies": {
+    "sass": "^1.89.2",
+    "sass-loader": "^10.5.2",
+    "webpack": "^4.47.0"
+  }
+}
